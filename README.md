@@ -1,0 +1,5 @@
+- 👋 Hi, I’m SAI SANJAY V
+- 👀 I’m interested in AI, ML & DSA
+- 🌱 I’m currently learning PYTHON, AI & DSA
+- 💞️ I’m looking to collaborate on *AI projects, leetcode problems & designing
+- 📫 How to reach me saisanjay2606@icloud.com
